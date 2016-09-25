@@ -1,0 +1,103 @@
+﻿-Game requires you to create an account to play any game mode as all winnings, rankings,
+  inventory, high scores, best timings, and other stats are recorded for each individual player
+  to keep a safe profile in which they can log into in the future and which will also be used
+  in multiplayer for matchmaking and user identity.
+[Main Menu]
+-Singleplayer
+	[Singleplayer Screen]
+	-Back button -> return to Main Menu
+	-Test Drive
+		[Test Drive Screen]
+		-Map panel -> select map
+		-Play buttom -> begin driving car in selected map
+	-Arcade Mode
+		-Arcade mode is a relaxed game mode which possesses no risk and
+		  contrarily gives reward (credit) for participating in races against AI.
+		-The amount of credit earned depends on your position in the race.
+		-This gamemode is used to earn a quick buck or just play for fun.
+		[Arcade Mode Screen]
+		-Back button -> return to Singleplayer Screen
+		-Highscore label -> displays Arcade Mode highscore
+		-Map panel -> select map
+		-Play button -> begin race against AI of indefinite difficulty
+	-Challenges
+		-Challenges are an addition to the vastness of the game and also provide
+		  milestones apart from career mode to satisfy the player's need of	
+		  achivement.
+		-Challenges are often difficult to complete and there is no reward for doing
+		  so. The feeling of overcoming such a mighty obstacle should be enough.
+		-Each challenge should be unique as it goes astray from the typical
+		  goal of the game, thus adding variety.
+		[Challenges Screen]
+		-Back button -> back to Single Player screen.
+		-Displays a matrix of challenges
+		-Selecting a challenge will provide further info about the challenge
+		  including:
+			-Instructions, guidelines, rules
+			-Your best time of completion
+		-Play button -> begin challenge
+	-Career Mode (consideration)
+		-You have to defeat AI progressively increasing in difficulty.
+		-The AI rivals have their own unique car, history, and personailty.
+		-Defeating the AI rival grants credits which is used for purchases.
+		-Progression awards with:
+			-Unlock of new items in garage for customization
+			-Unlock of new maps
+			-Unlock of new challenges
+		-The higher your rank, the more difficult the AI become in 
+		  Arcade Mode.
+		[Career Mode Screen]
+		-Back button -> back to Singleplayer Screen
+		-Displays current AI rival and information about him (biodata, history)
+		  and his car (specs).
+		-Displays current rank.
+		-Play button -> begin race against current rival.
+		
+-Multiplayer
+	-Every mode takes the player into a lobby where he waits for a specifc
+	  number of players to connect before starting the game.
+	-Players are able to chat in this lobby.
+	-Matchmaking takes into consideration many factors of the individual players.
+	[Multiplayer Screen]
+	-Pink Slip Race -> the two participants stake their car on the victory.
+		[Pink Slip Race Lobby]
+		-Chatbox -> facility to chat
+		-Cancel -> exits the player from the lobby to the Multiplayer Screen
+	-Regular race -> two or more players compete in a race.
+		[Regular Race Screen]
+		-(Consideration): Options for a 2-Player, 4-Player, 8-Player race.
+		-Each choice leads toa separate lobby where the desired number
+		  of players are waited for before the game begins.
+	-(Consideration): Bet Race -> two players wage credit on the victory
+		[Bet Race Screen]
+		-(Consideration): Bet options for 500, 2000, 5000 credits.
+		-Each choice leads to a separate lobby where it matches you
+		  with a player who bets the same amount.
+-Garage
+	[Garage Screen]
+	-Allows the selection of the car to be used.
+	-Allows to view your available cars and their specs.
+	-Allows you to customize your vehicles using parts that you own.
+	-Snapshot feature to take a cool photo of your car.
+-Shop
+	[Shop Screen]
+	-Allows you to purchase new vehicles.
+	-Allows you to purchase different parts to customize your vehicles.
+	-These parts can include tyres, rims, spoilers, bumpers, paints etc.
+	-Not all items are unlocked and can be unlocked from playing Career Mode.
+	-Most items can be purchased using credit while others are exclusive
+	  and require real world money to purchase.
+-Achievements
+	[Achievements Screen]
+	-List of achievements that are ticked off whenever the player completes
+	  a defined (and specific) task.
+	-This list includes all the achievements and different gamemodes unlock
+	  different achievements pertaining to that specific game mode.
+-Settings
+	[Settings Screen]
+	-Mute music button/music volume slider
+	-Mute SFX button/SFX volume slider
+	-(Consideration): Graphics options (low, medium, high)
+-Exit
+	-Displays advertisement perhaps
+	-Quits the game
